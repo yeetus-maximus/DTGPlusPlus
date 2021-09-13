@@ -23,7 +23,7 @@ C++ Discord Token Grabber ( FUD )
 ![alt text](https://i.imgur.com/oJw11Rb.jpeg)
  #
  ### ♻️ Scan Result »
-![alt text](https://antiscan.me/images/result/AwJFMgo06pU2.png)
+![alt text](https://antiscan.me/images/result/AwJFMgo06pU2.png)\
 Alert: Please Don't Upload DTG To Virustotal
 #
 ### 🧪 Bonus »
