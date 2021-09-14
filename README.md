@@ -24,7 +24,7 @@ C++ Discord Token Grabber ( FUD )
  #
  ### ♻️ Scan Result »
 ![alt text](https://antiscan.me/images/result/AwJFMgo06pU2.png)\
-Alert: Please Don't Upload DTG To Virustotal
+❗️ Alert: Please Don't Upload DTG To Virustotal
 #
 ### 🧪 Bonus »
 If you aid (star & fork) my project, I will update this project and add many features
